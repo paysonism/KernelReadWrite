@@ -1,0 +1,37 @@
+﻿  Building 'KMDF Driver2' with toolset 'WindowsKernelModeDriver10.0' and the 'Universal' target platform.
+  Stamping x64\Debug\KMDFDriver2.inf
+  Stamping [Version] section with DriverVer=01/26/2024,17.19.10.744
+  main.cpp
+C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\KMDF Driver2\main.cpp(40,55): warning C4996: 'ExAllocatePoolWithTag': ExAllocatePoolWithTag is deprecated, use ExAllocatePool2.
+C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\KMDF Driver2\main.cpp(213,10): warning C4456: declaration of 'function' hides previous local declaration
+C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\KMDF Driver2\main.cpp(201,9): message : see declaration of 'function'
+C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\KMDF Driver2\main.cpp(201,9): warning C4189: 'function': local variable is initialized but not referenced
+C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\KMDF Driver2\main.cpp(19): warning C4706: assignment within conditional expression
+C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\KMDF Driver2\main.cpp(206): warning C4702: unreachable code
+C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\KMDF Driver2\main.cpp(207): warning C4702: unreachable code
+C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\KMDF Driver2\main.cpp(210): warning C4702: unreachable code
+C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\KMDF Driver2\main.cpp(216): warning C4702: unreachable code
+C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\KMDF Driver2\main.cpp(220): warning C4702: unreachable code
+C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\KMDF Driver2\main.cpp(232): warning C4702: unreachable code
+C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\KMDF Driver2\main.cpp(248): warning C4702: unreachable code
+C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\KMDF Driver2\main.cpp(251): warning C4702: unreachable code
+C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\KMDF Driver2\main.cpp(276): warning C4702: unreachable code
+  KMDF Driver2.vcxproj -> C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\x64\Debug\KMDFDriver2.sys
+  Done Adding Additional Store
+  Successfully signed: C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\x64\Debug\KMDFDriver2.sys
+  
+  Driver is 'Universal'.
+  ........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\x64\Debug\KMDF Driver2\kmdfdriver2.cat
+  Done Adding Additional Store
+  Successfully signed: C:\Users\School\Downloads\kernel_cheat_driver2-master\kernel_cheat_driver2-master\x64\Debug\KMDF Driver2\kmdfdriver2.cat
+  
